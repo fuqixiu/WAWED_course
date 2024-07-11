@@ -22,3 +22,4 @@ dependencies:
     - insipid-sphinx-theme; platform_system != "Windows"
     - sphinx-bootstrap-theme; platform_system != "Windows"
     - sphinx-inline-tabs; platform_system != "Windows"
+    - sphinx-book-theme; platform_system != "Windows"
