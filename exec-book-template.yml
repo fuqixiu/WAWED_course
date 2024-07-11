@@ -12,7 +12,7 @@ dependencies:
   - scipy
   - numpy
   - matplotlib
-  - jinja2
+  - jinja2=3.0.1
   - seaborn
   - nibabel=3.2.1
   - nilearn=0.7.1
