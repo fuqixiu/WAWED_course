@@ -1,8 +1,15 @@
-# Executable Book Template
+# Philosophy in Science (Fall 2024)
 
-This Jupyter Book contains supplemental code and visualizations for the following project:
+**Instructors**: Dr. Daniela Schiller, Alessandra Yu, and Qi Xiu Fu, with guest speakers from Columbia and Barnard.
 
-<blockquote>Rhoads, S. A. (2021). Executable book template. Zenodo. https://doi.org/10.5281/zenodo.5519745</blockquote>
-<br>
+**Time**: Mondays & Thursdays 2:30 - 4:00 pm
 
-Please visit the [Getting Started](https://shawnrhoads.github.io/executable-book-template/getting-started.html) page to **use this template for your own projects**!
+**Location**: Hess Center For Science and Medicine 
+
+**Format**: This course will be in-person only. Lectures and workshops materials will be made availble online for community resources. 
+
+**Overview**: This elective is ideal for motivated biomedical and neural science students who are interested in diving deeper into the theoretical foundations of their own research and science at large. If you've ever found yourself wondering, "What are we even doing in science?", this course is for you! This is a unique chance to refine your own research framework in a structured manner and among a community of like-minded scientists. 
+
+**Grading**: This is a P/F course. The course is considered passed based on attendance and participation. 
+
+**Syllabus**: You can find the tentative [syllabus here](https://docs.google.com/document/d/1n2Ct6MCVUqkPO_jXdiY8JIj3ULNW-qIIAUfk2d5oxc4/edit#heading=h.m5ij8ntrzz6m)
