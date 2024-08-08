@@ -14,7 +14,7 @@
     # - file: module-08_linear-models
     # - file: projects-showcase
 - part: Acknowledgement 
-  # chapters:
+  chapters:
   #   - file: expectations
   #   - url: https://github.com/Center-for-Computational-Psychiatry/course_spice/discussions
   #     title: Q&A Discussion Board
