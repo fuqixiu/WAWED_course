@@ -1,4 +1,4 @@
-name: exec-book-template
+name: Philosophy in Science
 channels:
   - default
   - conda-forge
