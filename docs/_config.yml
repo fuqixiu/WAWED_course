@@ -4,9 +4,9 @@
 # This is also the "master list" of all allowed keys and values.
 
 #######################################################################################
-title: "Executable Book Template" # The title of the book. Will be placed in the left navbar.
-author: Shawn A. Rhoads # The author of the book
-copyright: '2021' # Copyright year to be placed in the footer
+title: "Philosophy in Science" # The title of the book. Will be placed in the left navbar.
+author: Qi Xiu Fu & Alessandra Yu # The author of the book
+copyright: '2024' # Copyright year to be placed in the footer
 exclude_patterns: []  # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 #######################################################################################
 
