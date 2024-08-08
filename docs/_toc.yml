@@ -1,9 +1,20 @@
 - file: index
-- file: 1.lecture/module0
-# - file: data
-# - file: preproc
-# - file: study1
-# - file: study2
-# - file: jupyter
-# - file: R
-# - file: Python
+- part: Theoretical Lecture
+  chapters:
+    - file: TL-module0
+- part: Practical Workshop
+  chapters:
+    # - file: module-01_jupyter-notebooks
+    # - file: module-02_python-basics
+    # - file: module-03_data-structures
+    # - file: module-04_data-processing
+    # - file: module-05_data-visualization
+    # - file: module-06_numerical-operations
+    # - file: module-07_t-tests
+    # - file: module-08_linear-models
+    # - file: projects-showcase
+- part: Acknowledgement 
+  # chapters:
+  #   - file: expectations
+  #   - url: https://github.com/Center-for-Computational-Psychiatry/course_spice/discussions
+  #     title: Q&A Discussion Board
