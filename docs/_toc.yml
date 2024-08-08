@@ -1,5 +1,7 @@
 - file: index
-- file: TL-module0
+- part: Theoretical Lecture
+  chapters:
+      - file: TL-module0
 # - part: Theoretical Lecture
 #   chapters:
 #     - file: TL-module0
