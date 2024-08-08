@@ -1,5 +1,11 @@
 # Philosophy in Science (Fall 2024)
 
+<div align="center">
+
+<a target="_blank" rel="noopener noreferrer" href="https://center-for-computational-psychiatry.github.io/course_spice">![Jupyter Book Badge](https://jupyterbook.org/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/center-for-computational-psychiatry/course_spice/actions/workflows/deploy-book.yml">![book](https://github.com/center-for-computational-psychiatry/course_spice/actions/workflows/deploy-book.yml/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/center-for-computational-psychiatry/course_spice">![GitHub last update](https://img.shields.io/github/last-commit/center-for-computational-psychiatry/course_spice?color=blue&label=last%20update)</a>
+
+</div>
+
 **Instructors**: Dr. Daniela Schiller, Alessandra Yu, and Qi Xiu Fu, with guest speakers from Columbia and Barnard.
 
 **Time**: Mondays & Thursdays 2:30 - 4:00 pm
