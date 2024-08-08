@@ -1,0 +1,464 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Study 2 &#8212; Philosophy in Science</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="../_static/tabs.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script >const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="canonical" href="https://shawnrhoads.github.io/executable-notebooks-template/resource_template/study2.html" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+      
+      
+      <h1 class="site-logo" id="site-title">Philosophy in Science</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../getting-started.html">
+   Getting Started
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="../_sources/resource_template/study2.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.ipynb</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#figure-2">
+   Figure 2
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#supplemental-figure-3">
+   Supplemental Figure 3
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#table-2">
+   Table 2
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Study 2</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#figure-2">
+   Figure 2
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#supplemental-figure-3">
+   Supplemental Figure 3
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#table-2">
+   Table 2
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <div class="section" id="study-2">
+<h1>Study 2<a class="headerlink" href="#study-2" title="Permalink to this headline">¶</a></h1>
+<p>Brief description of neuroimaging study.</p>
+<p>For group-level statistical inference, we ran a sign permutation test using the following <code class="docutils literal notranslate"><span class="pre">bash</span></code> command with <code class="docutils literal notranslate"><span class="pre">AFNI</span></code> to run <code class="docutils literal notranslate"><span class="pre">3dttest++</span></code> with <code class="docutils literal notranslate"><span class="pre">-Clustsim</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">dirA</span><span class="o">=</span><span class="n">mnt</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">study</span><span class="o">/</span><span class="n">firstlevel_glm</span><span class="o">/</span>
+<span class="mi">3</span><span class="n">dttest</span><span class="o">++</span> <span class="o">-</span><span class="n">prefix</span> <span class="o">/</span><span class="n">mnt</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">study</span><span class="o">/</span><span class="n">results</span><span class="o">/</span><span class="n">Condition_A</span><span class="o">.</span><span class="n">nii</span><span class="o">.</span><span class="n">gz</span> \
+          <span class="o">-</span><span class="n">mask</span> <span class="o">/</span><span class="n">mnt</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">study</span><span class="o">/</span><span class="n">code</span><span class="o">/</span><span class="n">modeling</span><span class="o">/</span><span class="n">MNI152</span><span class="o">-</span><span class="n">graymatter</span><span class="o">-</span><span class="n">thr50</span><span class="o">-</span><span class="mi">2</span><span class="n">mm</span><span class="o">.</span><span class="n">nii</span><span class="o">.</span><span class="n">gz</span> \
+          <span class="o">-</span><span class="n">Clustsim</span> \
+          <span class="o">-</span><span class="n">setA</span> <span class="n">Condition_A</span> \
+             <span class="mi">101</span> <span class="s2">&quot;$dirA/sub-101_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">102</span> <span class="s2">&quot;$dirA/sub-102_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">103</span> <span class="s2">&quot;$dirA/sub-103_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">104</span> <span class="s2">&quot;$dirA/sub-104_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">105</span> <span class="s2">&quot;$dirA/sub-105_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">106</span> <span class="s2">&quot;$dirA/sub-106_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">107</span> <span class="s2">&quot;$dirA/sub-107_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">108</span> <span class="s2">&quot;$dirA/sub-108_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">109</span> <span class="s2">&quot;$dirA/sub-109_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">110</span> <span class="s2">&quot;$dirA/sub-110_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">111</span> <span class="s2">&quot;$dirA/sub-111_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">112</span> <span class="s2">&quot;$dirA/sub-112_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">113</span> <span class="s2">&quot;$dirA/sub-113_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">115</span> <span class="s2">&quot;$dirA/sub-115_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">201</span> <span class="s2">&quot;$dirA/sub-201_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">202</span> <span class="s2">&quot;$dirA/sub-202_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">203</span> <span class="s2">&quot;$dirA/sub-203_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">204</span> <span class="s2">&quot;$dirA/sub-204_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">205</span> <span class="s2">&quot;$dirA/sub-205_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">206</span> <span class="s2">&quot;$dirA/sub-206_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">207</span> <span class="s2">&quot;$dirA/sub-207_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">208</span> <span class="s2">&quot;$dirA/sub-208_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">209</span> <span class="s2">&quot;$dirA/sub-209_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">210</span> <span class="s2">&quot;$dirA/sub-210_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">211</span> <span class="s2">&quot;$dirA/sub-211_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">212</span> <span class="s2">&quot;$dirA/sub-212_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">213</span> <span class="s2">&quot;$dirA/sub-213_stats.nii.gz[0]&quot;</span> \
+             <span class="mi">215</span> <span class="s2">&quot;$dirA/sub-215_stats.nii.gz[0]&quot;</span>
+</pre></div>
+</div>
+<p>We thresholded our image using the following <code class="docutils literal notranslate"><span class="pre">bash</span></code> command with <code class="docutils literal notranslate"><span class="pre">AFNI</span></code> to run <code class="docutils literal notranslate"><span class="pre">3dClusterize</span></code>:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="mi">3</span><span class="n">dClusterize</span> <span class="o">-</span><span class="n">nosum</span> <span class="o">-</span><span class="mi">1</span><span class="n">Dformat</span> <span class="o">-</span><span class="n">inset</span> <span class="o">/</span><span class="n">mnt</span><span class="o">/</span><span class="n">data</span><span class="o">/</span><span class="n">study</span><span class="o">/</span><span class="n">results</span><span class="o">/</span><span class="n">Condition_A</span><span class="o">.</span><span class="n">nii</span><span class="o">.</span><span class="n">gz</span> <span class="o">-</span><span class="n">idat</span> <span class="mi">1</span> <span class="o">-</span><span class="n">ithr</span> <span class="mi">1</span> <span class="o">-</span><span class="n">NN</span> <span class="mi">2</span> <span class="o">-</span><span class="n">clust_nvox</span> <span class="mi">9</span> <span class="o">-</span><span class="n">bisided</span> <span class="o">-</span><span class="mf">2.8</span> <span class="mf">2.8</span> <span class="o">-</span><span class="n">pref_map</span> <span class="n">Clust_mask</span>
+</pre></div>
+</div>
+<div class="section" id="figure-2">
+<h2>Figure 2<a class="headerlink" href="#figure-2" title="Permalink to this headline">¶</a></h2>
+<p>Rather than selecting a few slices, let’s allow readers to interact with the entire statistical map!</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">nibabel</span> <span class="k">as</span> <span class="nn">nib</span>
+<span class="kn">from</span> <span class="nn">nilearn.plotting</span> <span class="kn">import</span> <span class="n">view_img</span>
+
+<span class="n">zmap</span> <span class="o">=</span> <span class="n">nib</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s1">&#39;data/unthresh_Z.nii.gz&#39;</span><span class="p">)</span>
+<span class="n">view_img</span><span class="p">(</span><span class="n">zmap</span><span class="p">,</span> <span class="n">threshold</span><span class="o">=</span><span class="mf">2.8</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">FileNotFoundError</span><span class="g g-Whitespace">                         </span>Traceback (most recent call last)
+<span class="nn">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py</span> in <span class="ni">load</span><span class="nt">(filename, **kwargs)</span>
+<span class="g g-Whitespace">     </span><span class="mi">41</span>     <span class="k">try</span><span class="p">:</span>
+<span class="ne">---&gt; </span><span class="mi">42</span>         <span class="n">stat_result</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">stat</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">43</span>     <span class="k">except</span> <span class="ne">OSError</span><span class="p">:</span>
+
+<span class="ne">FileNotFoundError</span>: [Errno 2] No such file or directory: &#39;data/unthresh_Z.nii.gz&#39;
+
+<span class="n">During</span> <span class="n">handling</span> <span class="n">of</span> <span class="n">the</span> <span class="n">above</span> <span class="n">exception</span><span class="p">,</span> <span class="n">another</span> <span class="n">exception</span> <span class="n">occurred</span><span class="p">:</span>
+
+<span class="ne">FileNotFoundError</span><span class="g g-Whitespace">                         </span>Traceback (most recent call last)
+<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_6201</span><span class="o">/</span><span class="mf">3597648802.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="kn">from</span> <span class="nn">nilearn.plotting</span> <span class="kn">import</span> <span class="n">view_img</span>
+<span class="g g-Whitespace">      </span><span class="mi">3</span> 
+<span class="ne">----&gt; </span><span class="mi">4</span> <span class="n">zmap</span> <span class="o">=</span> <span class="n">nib</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s1">&#39;data/unthresh_Z.nii.gz&#39;</span><span class="p">)</span>
+<span class="g g-Whitespace">      </span><span class="mi">5</span> <span class="n">view_img</span><span class="p">(</span><span class="n">zmap</span><span class="p">,</span> <span class="n">threshold</span><span class="o">=</span><span class="mf">2.8</span><span class="p">)</span>
+
+<span class="nn">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py</span> in <span class="ni">load</span><span class="nt">(filename, **kwargs)</span>
+<span class="g g-Whitespace">     </span><span class="mi">42</span>         <span class="n">stat_result</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">stat</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">43</span>     <span class="k">except</span> <span class="ne">OSError</span><span class="p">:</span>
+<span class="ne">---&gt; </span><span class="mi">44</span>         <span class="k">raise</span> <span class="ne">FileNotFoundError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;No such file or no access: &#39;</span><span class="si">{</span><span class="n">filename</span><span class="si">}</span><span class="s2">&#39;&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">45</span>     <span class="k">if</span> <span class="n">stat_result</span><span class="o">.</span><span class="n">st_size</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+<span class="g g-Whitespace">     </span><span class="mi">46</span>         <span class="k">raise</span> <span class="n">ImageFileError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Empty file: &#39;</span><span class="si">{</span><span class="n">filename</span><span class="si">}</span><span class="s2">&#39;&quot;</span><span class="p">)</span>
+
+<span class="ne">FileNotFoundError</span>: No such file or no access: &#39;data/unthresh_Z.nii.gz&#39;
+</pre></div>
+</div>
+</div>
+</div>
+<p>Here is the statistic map on a surface mesh.</p>
+</div>
+<div class="section" id="supplemental-figure-3">
+<h2>Supplemental Figure 3<a class="headerlink" href="#supplemental-figure-3" title="Permalink to this headline">¶</a></h2>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">nilearn.plotting</span> <span class="kn">import</span> <span class="n">view_img_on_surf</span>
+
+<span class="n">view_img_on_surf</span><span class="p">(</span><span class="n">zmap</span><span class="p">,</span><span class="n">threshold</span><span class="o">=</span><span class="mf">2.8</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<hr></div>
+<div class="section" id="table-2">
+<h2>Table 2<a class="headerlink" href="#table-2" title="Permalink to this headline">¶</a></h2>
+<p>We can also generate a coordinate table from the statistical map.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">nilearn.reporting</span> <span class="kn">import</span> <span class="n">get_clusters_table</span>
+<span class="n">table</span> <span class="o">=</span> <span class="n">get_clusters_table</span><span class="p">(</span><span class="n">zmap</span><span class="p">,</span> 
+                           <span class="n">stat_threshold</span><span class="o">=</span><span class="mf">2.8</span><span class="p">,</span>
+                           <span class="n">cluster_threshold</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span><span class="o">.</span><span class="n">set_index</span><span class="p">(</span><span class="s1">&#39;Cluster ID&#39;</span><span class="p">,</span>
+                                                           <span class="n">drop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">table</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./resource_template"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Qi Xiu Fu & Alessandra Yu<br/>
+  
+      &copy; Copyright 2024.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>
