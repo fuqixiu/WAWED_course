@@ -1,10 +1,10 @@
-# Philosophy in Science (Fall 2024)
-
 <div align="center">
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course">![Jupyter Book Badge](https://jupyterbook.org/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course/actions/workflows/deploy-book.yml">![book](https://github.com/fuqixiu/WAWED_course/actions/workflows/deploy-book.yml/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course">![GitHub last update](https://img.shields.io/github/last-commit/fuqixiu/WAWED_course?color=blue&label=last%20update)</a>
 
 </div>
+
+# Philosophy in Science (Fall 2024)
 
 **Instructors**: Dr. Daniela Schiller, Alessandra Yu, and Qi Xiu Fu, with guest speakers from Columbia and Barnard.
 
