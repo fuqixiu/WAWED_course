@@ -1,8 +1,10 @@
 # **Module 0** Intro to Philosophy in Science: What are we even doing?
 
-**Instructors**: Dr. Daniela Schiller & Alessandra Yu
-**Time**: Monday, Sept 16, 2024
-**Suggested Readings**
+**Instructors**: Dr. Daniela Schiller & Alessandra Yu     
+
+**Time**: Monday, Sept 16, 2024      
+
+**Suggested Readings**      
 - Kampourakis & Uller (2020) - Philosophy of Biology: [Preface & Chapter 1](https://virtualmmx.ddns.net/gbooks/PhilosophyofScienceforBiologists.pdf) (pg 1-18)
 - Bechtel & Huang (2022) - Philosophy of Neuroscience:  [Introduction](https://web.archive.org/web/20220209142019id_/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8EB23CCDB2E9D414EDA36CB8A5B8F62A/9781108931502AR.pdf/philosophy-of-neuroscience.pdf) (pg 1-2)
 - Levenstein et al. (2023) - [On the Role of Theory and Modeling in Neuroscience](https://www.jneurosci.org/content/43/7/1074)
