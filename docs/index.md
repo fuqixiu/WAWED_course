@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course">![Jupyter Book Badge](https://jupyterbook.org/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course/actions/workflows/deploy-book.yml">![book](https://github.com/fuqixiu/WAWED_course/actions/workflows/deploy-book.yml/badge.svg)</a> <a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course">![GitHub last update](https://img.shields.io/github/last-commit/fuqixiu/WAWED_course?color=blue&label=last%20update)</a>
 
@@ -12,7 +12,7 @@
 
 **Location**: Hess Center For Science and Medicine 
 
-**Format**: This course will be in-person only. Lectures and workshops materials will be made availble online for community resources. 
+**Format**: This course will be in-person only. Lectures and workshop materials will be made available online for community resources. 
 
 **Overview**: This elective is ideal for motivated biomedical and neural science students who are interested in diving deeper into the theoretical foundations of their own research and science at large. If you've ever found yourself wondering, "What are we even doing in science?", this course is for you! This is a unique chance to refine your own research framework in a structured manner and among a community of like-minded scientists. 
 

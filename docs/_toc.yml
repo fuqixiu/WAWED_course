@@ -5,9 +5,9 @@
 # - part: Theoretical Lecture
 #   chapters:
 #     - file: TL-module0
-# - part: Practical Workshop
-#   chapters:
-#     # - file: module-01_jupyter-notebooks
+- part: Practical Workshop
+  chapters:
+      - file: PW-module0
 #     # - file: module-02_python-basics
 #     # - file: module-03_data-structures
 #     # - file: module-04_data-processing
