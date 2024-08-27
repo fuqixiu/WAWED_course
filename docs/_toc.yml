@@ -1,13 +1,14 @@
 - file: index
-- part: Theoretical Lecture
+- part: Module 0
   chapters:
       - file: TL-module0
+      - file: PW-module0
 # - part: Theoretical Lecture
 #   chapters:
 #     - file: TL-module0
-- part: Practical Workshop
-  chapters:
-      - file: PW-module0
+# - part: Practical Workshop
+  # chapters:
+      # - file: PW-module0
 #     # - file: module-02_python-basics
 #     # - file: module-03_data-structures
 #     # - file: module-04_data-processing
