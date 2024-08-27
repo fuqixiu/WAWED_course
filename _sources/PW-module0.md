@@ -1,4 +1,4 @@
-# **Workshop 0** Table of Assumptions
+# **practical** Table of Assumptions
 
 **Instructors**: Dr. Daniela Schiller & Alessandra Yu     
 

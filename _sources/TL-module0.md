@@ -1,4 +1,4 @@
-# **Module 0** Intro to Philosophy in Science: What are we even doing?
+# **theoretical** Intro to Philosophy in Science: What are we even doing?
 
 **Instructors**: Dr. Daniela Schiller & Alessandra Yu     
 
