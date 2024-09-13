@@ -12,13 +12,13 @@
 
 **Location**: Hess Center For Science and Medicine 
 
-**Format**: This course will be in-person only. Lectures and workshop materials will be made available online for community resources. 
+**Format**: This course will be in-person only. Lectures and workshop materials will be made available online. 
 
 **Overview**: This elective is ideal for motivated biomedical and neural science students who are interested in diving deeper into the theoretical foundations of their own research and science at large. If you've ever found yourself wondering, "What are we even doing in science?", this course is for you! This is a unique chance to refine your own research framework in a structured manner and among a community of like-minded scientists. 
 
 **Grading**: This is a P/F course. The course is considered passed based on attendance and participation. 
 
-**Syllabus**: You can find the tentative [syllabus here](https://docs.google.com/document/d/1n2Ct6MCVUqkPO_jXdiY8JIj3ULNW-qIIAUfk2d5oxc4/edit#heading=h.m5ij8ntrzz6m)
+**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing)
 
 ## Contributors
 
@@ -27,8 +27,8 @@
         <tr role="row">
             <td align="center" role="columnheader"><a target="_blank" rel="noopener noreferrer" href="https://scholars.mssm.edu/en/persons/daniela-schiller"><img src="https://www.mountsinai.org/files/fad_img_new/89/0000076810088827349971/0000072500013293193151.jpg"
             style="width: 100px; height: 100px; object-fit: cover;  object-position: top;" alt=""/></a><br/><sub><a target="_blank" rel="noopener noreferrer" href="https://scholars.mssm.edu/en/persons/daniela-schiller"><b>Daniela Schiller</b></a><br/></sub></td>
-            <td align="center" role="columnheader"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alessandra-nicoletta-cruz-yu"><img src="https://i1.rgstatic.net/ii/profile.image/11431281103130614-1669623997440_Q512/Alessandra-Nicoletta-Cruz-Yu.jpg" width="100px;" alt=""/></a><br /><sub><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alessandra-nicoletta-cruz-yu"><b>Alessandra Yu</b></a><br/></sub></td>
-            <td align="center" role="columnheader"><a target="_blank" rel="noopener noreferrer" href="https://qixiufu.weebly.com/"><img src="https://qixiufu.weebly.com/uploads/5/3/2/7/53274169/published/shareimage.jpg?1711632834" width="100px;" alt=""/></a><br /><sub><a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course/commits?author=fuqixiu"><b>Qi Xiu Fu</b></a><br/></sub></td>
+            <td align="center" role="columnheader"><a target="_blank" rel="noopener noreferrer" href="https://x.com/AlessandraNCYu"><img src="https://i1.rgstatic.net/ii/profile.image/11431281103130614-1669623997440_Q512/Alessandra-Nicoletta-Cruz-Yu.jpg" width="100px;" alt=""/></a><br /><sub><a target="_blank" rel="noopener noreferrer" href="https://x.com/AlessandraNCYu"><b>Alessandra Yu</b></a><br/></sub></td>
+            <td align="center" role="columnheader"><a target="_blank" rel="noopener noreferrer" href="https://qixiufu.weebly.com/"><img src="https://500queerscientists.com/wp-content/uploads/2024/03/qixiu_fu-scaled.jpg" width="100px;" alt=""/></a><br /><sub><a target="_blank" rel="noopener noreferrer" href="https://github.com/fuqixiu/WAWED_course/commits?author=fuqixiu"><b>Qi Xiu Fu</b></a><br/></sub></td>
         </tr>
         </thead>
 </table>
