@@ -12,7 +12,7 @@
 
 **Location**: Hess Center For Science and Medicine 
 
-**Format**: This course will be in-person only. Lectures and workshop materials will be made available online. 
+**Format**: This course will be in-person only. Lecture and workshop materials will be made available online. 
 
 **Overview**: This elective is ideal for motivated biomedical and neural science students who are interested in diving deeper into the theoretical foundations of their own research and science at large. If you've ever found yourself wondering, "What are we even doing in science?", this course is for you! This is a unique chance to refine your own research framework in a structured manner and among a community of like-minded scientists. 
 
