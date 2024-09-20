@@ -1,6 +1,6 @@
 # **theoretical** Intro to Philosophy in Science: What are we even doing?
 
-**Instructors**: Dr. Daniela Schiller & Alessandra Yu     
+**Instructors**: Dr. Daniela Schiller & Alessandra Yu & Qi Xiu Fu     
 
 **Time**: Monday, Sept 16, 2024      
 

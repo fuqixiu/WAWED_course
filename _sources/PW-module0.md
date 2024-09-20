@@ -1,6 +1,6 @@
 # **practical** Table of Assumptions
 
-**Instructors**: Dr. Daniela Schiller & Alessandra Yu     
+**Instructors**: Dr. Daniela Schiller & Alessandra Yu & Qi Xiu Fu   
 
 **Time**: Thursday, Sept 19, 2024      
 
