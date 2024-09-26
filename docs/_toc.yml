@@ -7,6 +7,10 @@
   chapters:
       - file: TL-module1
       - file: PW-module1
+- part: Module 2
+  chapters:
+      - file: TL-module2
+      - file: PW-module2
 # - part: Theoretical Lecture
 #   chapters:
 #     - file: TL-module0
