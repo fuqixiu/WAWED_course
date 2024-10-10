@@ -15,6 +15,10 @@
   chapters:
       - file: TL-module3
       - file: PW-module3
+- part: Module 4
+  chapters:
+      - file: TL-module4
+      - file: PW-module4
 # - part: Acknowledgement 
 # - part: Theoretical Lecture
 #   chapters:
