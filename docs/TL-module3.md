@@ -1,6 +1,6 @@
 # **theoretical** Phenomenon: What are you trying to study?
 
-**Instructors**: Qi Xiu Fu   
+**Instructors**: Qi Xiu Fu & Dr. Paul Linton   
 
 **Time**: Monday, Oct 7, 2024      
 
