@@ -456,67 +456,31 @@ title="Print to PDF"
 </div>
 <div class="cell_output docutils container">
 <div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
-<span class="ne">ModuleNotFoundError</span><span class="g g-Whitespace">                       </span>Traceback (most recent call last)
-<span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">exec</span><span class="o">-</span><span class="n">book</span><span class="o">-</span><span class="n">template</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="mf">.7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">nibabel</span><span class="o">/</span><span class="n">pydicom_compat</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">32</span> <span class="k">try</span><span class="p">:</span>
-<span class="ne">---&gt; </span><span class="mi">33</span>     <span class="kn">import</span> <span class="nn">dicom</span> <span class="k">as</span> <span class="nn">pydicom</span>
-<span class="g g-Whitespace">     </span><span class="mi">34</span> <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+<span class="ne">FileNotFoundError</span><span class="g g-Whitespace">                         </span>Traceback (most recent call last)
+<span class="nn">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py</span> in <span class="ni">load</span><span class="nt">(filename, **kwargs)</span>
+<span class="g g-Whitespace">     </span><span class="mi">41</span>     <span class="k">try</span><span class="p">:</span>
+<span class="ne">---&gt; </span><span class="mi">42</span>         <span class="n">stat_result</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">stat</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">43</span>     <span class="k">except</span> <span class="ne">OSError</span><span class="p">:</span>
 
-<span class="ne">ModuleNotFoundError</span>: No module named &#39;dicom&#39;
+<span class="ne">FileNotFoundError</span>: [Errno 2] No such file or directory: &#39;data/unthresh_Z.nii.gz&#39;
 
 <span class="n">During</span> <span class="n">handling</span> <span class="n">of</span> <span class="n">the</span> <span class="n">above</span> <span class="n">exception</span><span class="p">,</span> <span class="n">another</span> <span class="n">exception</span> <span class="n">occurred</span><span class="p">:</span>
 
-<span class="ne">TypeError</span><span class="g g-Whitespace">                                 </span>Traceback (most recent call last)
-<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_6161</span><span class="o">/</span><span class="mf">3597648802.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="ne">----&gt; </span><span class="mi">1</span> <span class="kn">import</span> <span class="nn">nibabel</span> <span class="k">as</span> <span class="nn">nib</span>
+<span class="ne">FileNotFoundError</span><span class="g g-Whitespace">                         </span>Traceback (most recent call last)
+<span class="o">/</span><span class="n">tmp</span><span class="o">/</span><span class="n">ipykernel_6159</span><span class="o">/</span><span class="mf">3597648802.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
 <span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="kn">from</span> <span class="nn">nilearn.plotting</span> <span class="kn">import</span> <span class="n">view_img</span>
 <span class="g g-Whitespace">      </span><span class="mi">3</span> 
-<span class="g g-Whitespace">      </span><span class="mi">4</span> <span class="n">zmap</span> <span class="o">=</span> <span class="n">nib</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s1">&#39;data/unthresh_Z.nii.gz&#39;</span><span class="p">)</span>
+<span class="ne">----&gt; </span><span class="mi">4</span> <span class="n">zmap</span> <span class="o">=</span> <span class="n">nib</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s1">&#39;data/unthresh_Z.nii.gz&#39;</span><span class="p">)</span>
 <span class="g g-Whitespace">      </span><span class="mi">5</span> <span class="n">view_img</span><span class="p">(</span><span class="n">zmap</span><span class="p">,</span> <span class="n">threshold</span><span class="o">=</span><span class="mf">2.8</span><span class="p">)</span>
 
-<span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">exec</span><span class="o">-</span><span class="n">book</span><span class="o">-</span><span class="n">template</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="mf">.7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">nibabel</span><span class="o">/</span><span class="fm">__init__</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">41</span> <span class="kn">from</span> <span class="nn">.</span> <span class="kn">import</span> <span class="n">spm99analyze</span> <span class="k">as</span> <span class="n">spm99</span>
-<span class="g g-Whitespace">     </span><span class="mi">42</span> <span class="kn">from</span> <span class="nn">.</span> <span class="kn">import</span> <span class="n">spm2analyze</span> <span class="k">as</span> <span class="n">spm2</span>
-<span class="ne">---&gt; </span><span class="mi">43</span> <span class="kn">from</span> <span class="nn">.</span> <span class="kn">import</span> <span class="n">nifti1</span> <span class="k">as</span> <span class="n">ni1</span>
-<span class="g g-Whitespace">     </span><span class="mi">44</span> <span class="kn">from</span> <span class="nn">.</span> <span class="kn">import</span> <span class="n">ecat</span>
-<span class="g g-Whitespace">     </span><span class="mi">45</span> <span class="c1"># object imports</span>
+<span class="nn">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py</span> in <span class="ni">load</span><span class="nt">(filename, **kwargs)</span>
+<span class="g g-Whitespace">     </span><span class="mi">42</span>         <span class="n">stat_result</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">stat</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">43</span>     <span class="k">except</span> <span class="ne">OSError</span><span class="p">:</span>
+<span class="ne">---&gt; </span><span class="mi">44</span>         <span class="k">raise</span> <span class="ne">FileNotFoundError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;No such file or no access: &#39;</span><span class="si">{</span><span class="n">filename</span><span class="si">}</span><span class="s2">&#39;&quot;</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">45</span>     <span class="k">if</span> <span class="n">stat_result</span><span class="o">.</span><span class="n">st_size</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+<span class="g g-Whitespace">     </span><span class="mi">46</span>         <span class="k">raise</span> <span class="n">ImageFileError</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;Empty file: &#39;</span><span class="si">{</span><span class="n">filename</span><span class="si">}</span><span class="s2">&#39;&quot;</span><span class="p">)</span>
 
-<span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">exec</span><span class="o">-</span><span class="n">book</span><span class="o">-</span><span class="n">template</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="mf">.7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">nibabel</span><span class="o">/</span><span class="n">nifti1</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">26</span> <span class="kn">from</span> <span class="nn">.spm99analyze</span> <span class="kn">import</span> <span class="n">SpmAnalyzeHeader</span>
-<span class="g g-Whitespace">     </span><span class="mi">27</span> <span class="kn">from</span> <span class="nn">.casting</span> <span class="kn">import</span> <span class="n">have_binary128</span>
-<span class="ne">---&gt; </span><span class="mi">28</span> <span class="kn">from</span> <span class="nn">.pydicom_compat</span> <span class="kn">import</span> <span class="n">have_dicom</span><span class="p">,</span> <span class="n">pydicom</span> <span class="k">as</span> <span class="n">pdcm</span>
-<span class="g g-Whitespace">     </span><span class="mi">29</span> 
-<span class="g g-Whitespace">     </span><span class="mi">30</span> <span class="c1"># nifti1 flat header definition for Analyze-like first 348 bytes</span>
-
-<span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">exec</span><span class="o">-</span><span class="n">book</span><span class="o">-</span><span class="n">template</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="mf">.7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">nibabel</span><span class="o">/</span><span class="n">pydicom_compat</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">34</span> <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
-<span class="g g-Whitespace">     </span><span class="mi">35</span>     <span class="k">try</span><span class="p">:</span>
-<span class="ne">---&gt; </span><span class="mi">36</span>         <span class="kn">import</span> <span class="nn">pydicom</span>
-<span class="g g-Whitespace">     </span><span class="mi">37</span>     <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
-<span class="g g-Whitespace">     </span><span class="mi">38</span>         <span class="n">have_dicom</span> <span class="o">=</span> <span class="kc">False</span>
-
-<span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="n">share</span><span class="o">/</span><span class="n">miniconda3</span><span class="o">/</span><span class="n">envs</span><span class="o">/</span><span class="n">exec</span><span class="o">-</span><span class="n">book</span><span class="o">-</span><span class="n">template</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="mf">.7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span><span class="o">/</span><span class="n">pydicom</span><span class="o">/</span><span class="fm">__init__</span><span class="o">.</span><span class="n">py</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">29</span><span class="w"> </span><span class="sd">&quot;&quot;&quot;</span>
-<span class="g g-Whitespace">     </span><span class="mi">30</span><span class="sd"> </span>
-<span class="ne">---&gt; </span><span class="mi">31</span><span class="sd"> from pydicom.dataelem import DataElement</span>
-<span class="g g-Whitespace">     </span><span class="mi">32</span><span class="sd"> from pydicom.dataset import Dataset, FileDataset, FileMetaDataset</span>
-<span class="g g-Whitespace">     </span><span class="mi">33</span><span class="sd"> import pydicom.examples</span>
-
-<span class="sd">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/pydicom/dataelem.py in &lt;module&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">15</span><span class="sd"> from typing import Any, TYPE_CHECKING, NamedTuple</span>
-<span class="g g-Whitespace">     </span><span class="mi">16</span><span class="sd"> </span>
-<span class="ne">---&gt; </span><span class="mi">17</span><span class="sd"> from pydicom import config  # don&#39;t import datetime_conversion directly</span>
-<span class="g g-Whitespace">     </span><span class="mi">18</span><span class="sd"> from pydicom.config import logger</span>
-<span class="g g-Whitespace">     </span><span class="mi">19</span><span class="sd"> from pydicom.datadict import (</span>
-
-<span class="sd">/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/pydicom/config.py in &lt;module&gt;</span>
-<span class="g g-Whitespace">     </span><span class="mi">98</span><span class="sd"> &quot;&quot;&quot;</span>
-<span class="g g-Whitespace">     </span><span class="mi">99</span> 
-<span class="ne">--&gt; </span><span class="mi">100</span> <span class="n">data_element_callback_kwargs</span><span class="p">:</span> <span class="nb">dict</span><span class="p">[</span><span class="nb">str</span><span class="p">,</span> <span class="n">Any</span><span class="p">]</span> <span class="o">=</span> <span class="p">{}</span>
-<span class="g g-Whitespace">    </span><span class="mi">101</span> <span class="s2">&quot;&quot;&quot;Set the keyword arguments passed to :func:`data_element_callback`.</span>
-<span class="g g-Whitespace">    </span><span class="mi">102</span><span class="s2"> </span>
-
-<span class="ne">TypeError</span>: &#39;type&#39; object is not subscriptable
+<span class="ne">FileNotFoundError</span>: No such file or no access: &#39;data/unthresh_Z.nii.gz&#39;
 </pre></div>
 </div>
 </div>

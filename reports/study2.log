@@ -25,66 +25,30 @@ view_img(zmap, threshold=2.8)
 ------------------
 
 [0;31m---------------------------------------------------------------------------[0m
-[0;31mModuleNotFoundError[0m                       Traceback (most recent call last)
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/pydicom_compat.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     32[0m [0;32mtry[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[0;32m---> 33[0;31m     [0;32mimport[0m [0mdicom[0m [0;32mas[0m [0mpydicom[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     34[0m [0;32mexcept[0m [0mImportError[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;31mFileNotFoundError[0m                         Traceback (most recent call last)
+[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py[0m in [0;36mload[0;34m(filename, **kwargs)[0m
+[1;32m     41[0m     [0;32mtry[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m---> 42[0;31m         [0mstat_result[0m [0;34m=[0m [0mos[0m[0;34m.[0m[0mstat[0m[0;34m([0m[0mfilename[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m     43[0m     [0;32mexcept[0m [0mOSError[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
 
-[0;31mModuleNotFoundError[0m: No module named 'dicom'
+[0;31mFileNotFoundError[0m: [Errno 2] No such file or directory: 'data/unthresh_Z.nii.gz'
 
 During handling of the above exception, another exception occurred:
 
-[0;31mTypeError[0m                                 Traceback (most recent call last)
-[0;32m/tmp/ipykernel_6161/3597648802.py[0m in [0;36m<module>[0;34m[0m
-[0;32m----> 1[0;31m [0;32mimport[0m [0mnibabel[0m [0;32mas[0m [0mnib[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m      2[0m [0;32mfrom[0m [0mnilearn[0m[0;34m.[0m[0mplotting[0m [0;32mimport[0m [0mview_img[0m[0;34m[0m[0;34m[0m[0m
+[0;31mFileNotFoundError[0m                         Traceback (most recent call last)
+[0;32m/tmp/ipykernel_6159/3597648802.py[0m in [0;36m<module>[0;34m[0m
+[1;32m      2[0m [0;32mfrom[0m [0mnilearn[0m[0;34m.[0m[0mplotting[0m [0;32mimport[0m [0mview_img[0m[0;34m[0m[0;34m[0m[0m
 [1;32m      3[0m [0;34m[0m[0m
-[1;32m      4[0m [0mzmap[0m [0;34m=[0m [0mnib[0m[0;34m.[0m[0mload[0m[0;34m([0m[0;34m'data/unthresh_Z.nii.gz'[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
-[1;32m      5[0m [0mview_img[0m[0;34m([0m[0mzmap[0m[0;34m,[0m [0mthreshold[0m[0;34m=[0m[0;36m2.8[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0;32m----> 4[0;31m [0mzmap[0m [0;34m=[0m [0mnib[0m[0;34m.[0m[0mload[0m[0;34m([0m[0;34m'data/unthresh_Z.nii.gz'[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m      5[0m [0mview_img[0m[0;34m([0m[0mzmap[0m[0;34m,[0m [0mthreshold[0m[0;34m=[0m[0;36m2.8[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/__init__.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     41[0m [0;32mfrom[0m [0;34m.[0m [0;32mimport[0m [0mspm99analyze[0m [0;32mas[0m [0mspm99[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     42[0m [0;32mfrom[0m [0;34m.[0m [0;32mimport[0m [0mspm2analyze[0m [0;32mas[0m [0mspm2[0m[0;34m[0m[0;34m[0m[0m
-[0;32m---> 43[0;31m [0;32mfrom[0m [0;34m.[0m [0;32mimport[0m [0mnifti1[0m [0;32mas[0m [0mni1[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     44[0m [0;32mfrom[0m [0;34m.[0m [0;32mimport[0m [0mecat[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     45[0m [0;31m# object imports[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
+[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/loadsave.py[0m in [0;36mload[0;34m(filename, **kwargs)[0m
+[1;32m     42[0m         [0mstat_result[0m [0;34m=[0m [0mos[0m[0;34m.[0m[0mstat[0m[0;34m([0m[0mfilename[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[1;32m     43[0m     [0;32mexcept[0m [0mOSError[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[0;32m---> 44[0;31m         [0;32mraise[0m [0mFileNotFoundError[0m[0;34m([0m[0;34mf"No such file or no access: '{filename}'"[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+[0m[1;32m     45[0m     [0;32mif[0m [0mstat_result[0m[0;34m.[0m[0mst_size[0m [0;34m<=[0m [0;36m0[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
+[1;32m     46[0m         [0;32mraise[0m [0mImageFileError[0m[0;34m([0m[0;34mf"Empty file: '{filename}'"[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
 
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/nifti1.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     26[0m [0;32mfrom[0m [0;34m.[0m[0mspm99analyze[0m [0;32mimport[0m [0mSpmAnalyzeHeader[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     27[0m [0;32mfrom[0m [0;34m.[0m[0mcasting[0m [0;32mimport[0m [0mhave_binary128[0m[0;34m[0m[0;34m[0m[0m
-[0;32m---> 28[0;31m [0;32mfrom[0m [0;34m.[0m[0mpydicom_compat[0m [0;32mimport[0m [0mhave_dicom[0m[0;34m,[0m [0mpydicom[0m [0;32mas[0m [0mpdcm[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     29[0m [0;34m[0m[0m
-[1;32m     30[0m [0;31m# nifti1 flat header definition for Analyze-like first 348 bytes[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
-
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/nibabel/pydicom_compat.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     34[0m [0;32mexcept[0m [0mImportError[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     35[0m     [0;32mtry[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[0;32m---> 36[0;31m         [0;32mimport[0m [0mpydicom[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     37[0m     [0;32mexcept[0m [0mImportError[0m[0;34m:[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     38[0m         [0mhave_dicom[0m [0;34m=[0m [0;32mFalse[0m[0;34m[0m[0;34m[0m[0m
-
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/pydicom/__init__.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     29[0m """
-[1;32m     30[0m [0;34m[0m[0m
-[0;32m---> 31[0;31m [0;32mfrom[0m [0mpydicom[0m[0;34m.[0m[0mdataelem[0m [0;32mimport[0m [0mDataElement[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     32[0m [0;32mfrom[0m [0mpydicom[0m[0;34m.[0m[0mdataset[0m [0;32mimport[0m [0mDataset[0m[0;34m,[0m [0mFileDataset[0m[0;34m,[0m [0mFileMetaDataset[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     33[0m [0;32mimport[0m [0mpydicom[0m[0;34m.[0m[0mexamples[0m[0;34m[0m[0;34m[0m[0m
-
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/pydicom/dataelem.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     15[0m [0;32mfrom[0m [0mtyping[0m [0;32mimport[0m [0mAny[0m[0;34m,[0m [0mTYPE_CHECKING[0m[0;34m,[0m [0mNamedTuple[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     16[0m [0;34m[0m[0m
-[0;32m---> 17[0;31m [0;32mfrom[0m [0mpydicom[0m [0;32mimport[0m [0mconfig[0m  [0;31m# don't import datetime_conversion directly[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m     18[0m [0;32mfrom[0m [0mpydicom[0m[0;34m.[0m[0mconfig[0m [0;32mimport[0m [0mlogger[0m[0;34m[0m[0;34m[0m[0m
-[1;32m     19[0m from pydicom.datadict import (
-
-[0;32m/usr/share/miniconda3/envs/exec-book-template/lib/python3.7/site-packages/pydicom/config.py[0m in [0;36m<module>[0;34m[0m
-[1;32m     98[0m """
-[1;32m     99[0m [0;34m[0m[0m
-[0;32m--> 100[0;31m [0mdata_element_callback_kwargs[0m[0;34m:[0m [0mdict[0m[0;34m[[0m[0mstr[0m[0;34m,[0m [0mAny[0m[0;34m][0m [0;34m=[0m [0;34m{[0m[0;34m}[0m[0;34m[0m[0;34m[0m[0m
-[0m[1;32m    101[0m """Set the keyword arguments passed to :func:`data_element_callback`.
-[1;32m    102[0m [0;34m[0m[0m
-
-[0;31mTypeError[0m: 'type' object is not subscriptable
-TypeError: 'type' object is not subscriptable
+[0;31mFileNotFoundError[0m: No such file or no access: 'data/unthresh_Z.nii.gz'
+FileNotFoundError: No such file or no access: 'data/unthresh_Z.nii.gz'
 
