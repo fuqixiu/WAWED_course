@@ -2,7 +2,7 @@
 
 **Instructors**: Alessandra Yu & Dr. Nedah Nemati  
 
-**Time**: Monday, Oct 28, 2024      
+**Time**: Monday, Nov 11, 2024      
 
 **Suggested Readings**      
 - Ward (2017) - [The Varieties of Enactivism](https://link.springer.com/article/10.1007/s11245-017-9484-6) 

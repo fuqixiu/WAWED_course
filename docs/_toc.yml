@@ -27,7 +27,7 @@
   chapters:
       - file: TL-module6
       - file: PW-module6
-# - part: Acknowledgement 
+- part: Acknowledgement 
 # - part: Theoretical Lecture
 #   chapters:
 #     - file: TL-module0
