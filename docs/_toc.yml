@@ -19,6 +19,7 @@
   chapters:
       - file: TL-module4
       - file: PW-module4
+<<<<<<< HEAD
 - part: Module 5
   chapters:
       - file: TL-module5
@@ -27,6 +28,8 @@
 #   chapters:
 #       - file: TL-module6
 #       - file: PW-module6
+=======
+>>>>>>> parent of 08b39a0 (add module 5)
 # - part: Acknowledgement 
 #   chapters:
 #     - file: acknowledgement
