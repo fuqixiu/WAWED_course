@@ -27,6 +27,7 @@
   chapters:
       - file: TL-module6
       - file: PW-module6
+- file: acknowledgement
 # - part: Acknowledgement 
 #   chapters:
 #     - file: acknowledgement
