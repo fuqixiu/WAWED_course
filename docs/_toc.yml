@@ -23,10 +23,10 @@
   chapters:
       - file: TL-module5
       - file: PW-module5
-# - part: Module 6
-#   chapters:
-#       - file: TL-module6
-#       - file: PW-module6
+- part: Module 6
+  chapters:
+      - file: TL-module6
+      - file: PW-module6
 # - part: Acknowledgement 
 #   chapters:
 #     - file: acknowledgement
