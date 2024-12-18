@@ -6,4 +6,4 @@ This is the course website for the syllabus, reading materials, and workshop exe
 
 If you would like to use any course materials for teaching, please use the following citation:
 
-<blockquote>Yu, A., Fu, Q. X., & Schiller, D. (2024). Philosophy in Science. Zenodo. https://doi.org/10.5281/zenodo.14510513</blockquote>
+<blockquote>Yu, A.N.C., Fu, Q. X., & Schiller, D. (2024). Philosophy in Science. Zenodo. https://doi.org/10.5281/zenodo.14510513</blockquote>
