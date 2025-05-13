@@ -20,6 +20,9 @@
 
 **Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) or [see download PDF here](https://raw.githubusercontent.com/fuqixiu/WAWED_course/main/docs/Philosophy%20in%20Science%20WAWED_%20Syllabus%20-%20Final.pdf)
 
+**Syllabus**: You can find the <a href="https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing" target="_blank" rel="noopener">syllabus here</a> or <a href="https://raw.githubusercontent.com/fuqixiu/WAWED_course/main/docs/Philosophy%20in%20Science%20WAWED_%20Syllabus%20-%20Final.pdf" target="_blank" rel="noopener">see PDF</a>
+
+
 ## Contributors
 
 <table role="table" style="margin-left: 0px auto;">
