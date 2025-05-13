@@ -20,7 +20,7 @@
 
 **Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing)
 
-```{pdf} Philosophy in Science WAWED_Syllabus - Final.pdf
+```{pdf} philosophy_in_science_syllabus.pdf
 :width: 100%
 :height: 600px
 ```
