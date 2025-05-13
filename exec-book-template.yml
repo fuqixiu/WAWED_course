@@ -24,5 +24,3 @@ dependencies:
     - sphinx-bootstrap-theme; platform_system != "Windows"
     - sphinx-inline-tabs; platform_system != "Windows"
     - sphinx-book-theme; platform_system != "Windows"
-    # - myst-parser; platform_system != "Windows"
-    # - jupyterlab  
