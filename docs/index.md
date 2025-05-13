@@ -23,6 +23,7 @@
 ```{pdf} Philosophy in Science WAWED_Syllabus - Final.pdf
 :width: 100%
 :height: 600px
+```
 
 ## Contributors
 
