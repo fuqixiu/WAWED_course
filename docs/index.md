@@ -18,7 +18,7 @@
 
 **Grading**: This is a P/F course. The course is considered passed based on attendance and participation. 
 
-**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) or [see PDF](Philosophy in Science WAWED_Syllabus - Final.pdf)
+**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) or [see PDF](https://github.com/fuqixiu/WAWED_course/blob/main/docs/Philosophy%20in%20Science%20WAWED_%20Syllabus%20-%20Final.pdf)
 
 ## Contributors
 
