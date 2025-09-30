@@ -18,7 +18,7 @@
 
 **Grading**: This is a P/F course. The course is considered passed based on attendance and participation. 
 
-**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing)
+<!--**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) -->
 
 ## Contributors
 
