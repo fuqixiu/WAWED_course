@@ -1,8 +1,8 @@
 # **theoretical** Intro to Philosophy in Science: What are we even doing?
 
-**Instructors**: Dr. Daniela Schiller & Alessandra Yu & Qi Xiu Fu     
+**Instructors**: Dr. Daniela Schiller & Alessandra Yu 
 
-**Time**: Monday, Sept 16, 2024      
+**Time**: Monday, Jan 5, 2026      
 
 **Suggested Readings**      
 - Kampourakis & Uller (2020) - Philosophy of Biology: [Preface & Chapter 1](https://virtualmmx.ddns.net/gbooks/PhilosophyofScienceforBiologists.pdf) (pg 1-18)

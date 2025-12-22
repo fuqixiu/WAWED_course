@@ -1,8 +1,8 @@
 # **theoretical** Purpose: Why does the phenomenon exist?
 
-**Instructors**: Alessandra Yu  
+**Instructors**: Alessandra Yu & Dr. Daniela Schiller  
 
-**Time**: Monday, Oct 28, 2024      
+**Time**: Monday, Feb 23, 2026      
 
 **Suggested Readings**      
 - SEP (2020) - [Teleological Notions in Biology](https://plato.stanford.edu/entries/teleology-biology/)

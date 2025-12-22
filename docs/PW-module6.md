@@ -1,12 +1,8 @@
-# **practical** Reflections
+# **theoretical** Framekwork: How do we choose to do science?
 
-**Instructors**: Alessandra Yu & Qi Xiu Fu   
+**Instructors**: Cameron Le Roux, Qi Xiu Fu, Dr. Daniela Schiller
 
-**Time**: Thursday, Nov 14, 2024      
+**Time**: Monday, Mar 2 & Mar 5, 2026      
 
-**Exercise** (select 1)
-- Pick the first paragraph from your own writing and discuss: how would you orient a reader?
-- Write the first paragraph of your own review and discuss: how would you orient a reader?
-- [Class feedback](https://forms.gle/38f239VhphLDozKg6) 
-
-In this final workshop, students will reflect on how their revised scientific frameworks influence their writing and communication strategies. Prior to the workshop, students are expected to complete an exercise that involves orienting a reader in their scientific writing, whether in the first paragraph of their own work or a review. During the session, students will share their approaches and discuss how their frameworks guide the way they present and communicate their research. Additionally, this session will gather valuable feedback from students about their course experience, aiming to improve future iterations of the course.
+**Exercise**
+- Present your modified framework table, demonstrating how your understanding and approach to scientific inquiry have evolved over the course. This comprehensive presentation will highlight the integration of theoretical and practical knowledge, showcasing your ability to critically evaluate and enhance your scientific frameworks.
