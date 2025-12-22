@@ -1,11 +1,11 @@
 # **theoretical** Virtues: What makes your theory good?
 
-**Instructors**: Alessandra Yu   
+**Instructors**: Alessandra Yu, Dr. Daniela Schiller, Dr. Milena Ivanova    
 
-**Time**: Monday, Sept 30, 2024      
+**Time**: Monday, Jan 26, 2026      
 
 **Suggested Readings**      
-- Keas (2017) [Systematizing the Theoretical Virtues](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing)
+<!-- - Keas (2017) [Systematizing the Theoretical Virtues](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) -->
 - Ivanova & Farr (2020) [Methods in Science and Metaphysics](https://philsci-archive.pitt.edu/15812/1/msmfinal.pdf)
 
 This week, we focus on the theoretical virtues that determine the robustness and quality of scientific theories. Students will explore how empirical data often fail to resolve disputes between competing theoretical frameworks, necessitating an examination of the underlying virtues that guide theory selection. By the end of the module, students will understand the key qualities that make a theory scientifically valuable and how to apply these criteria to their own research.

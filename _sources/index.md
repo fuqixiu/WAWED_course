@@ -4,15 +4,17 @@
 
 </div>
 
-# Philosophy in Science (Fall 2024)
+# Philosophy in Science (Spring 2026)
 “There’s no such thing as philosophy-free science. There’s only science whose
 philosophical baggage is taken on board without examination.”
 - from _Darwin’s Dangerous Idea_ by Daniel Dennett 
 
 
-**Instructors**: Dr. Daniela Schiller, Alessandra Yu, and Qi Xiu Fu, with guest speakers from Columbia University.
+**Director**: Dr. Daniela Schiller
 
-**Time**: Mondays & Thursdays 2:30 - 4:00 pm
+**Teaching Assistants**: Alessandra Yu, Cameron Le Roux, and Qi Xiu Fu.
+
+**Time**: Mondays & Thursdays 2:15 - 3:45 pm
 
 **Location**: Hess Center for Science and Medicine 
 
@@ -42,7 +44,7 @@ Every week features a dual structure:
 2. _Thursdays_ are **practical workshops** focused on applying the principles of theoretical lecture to your own research with an opportunity to share with classmates and participating PIs.
 **Active participation** is crucial for both segments throughout the course as both are designed to be highly interactive. This course aims to empower each student to build mastery in the theoretical nuances of their own research. It is up to every student to truly apply the principles learned in the theoretical portion not only in the practical workshops, but in their own lab research and broader scientific careers.
 
-**Grading**: This is a P/F course. The course is considered passed based on attendance and participation.
+**Grading**: This is a P/F, 2 credit course. The course is considered passed based on attendance and participation.
 
 **Requirements**
 - **Attendance** and **participation** are required (**40%**). Students will be allowed up to one excused absence. A personal electronic device should be brought to class for in-device polls and exercises.
@@ -52,7 +54,7 @@ Every week features a dual structure:
 - All **feedback** forms must be completed following each week (**20%**).
 
 **Project**
-**Deadline:** Friday, November 22, 2024
+**Deadline:** Friday, March 20, 2026
 The final project will have 2 components:
 1. All your **exercises**, including a table outlining your theoretical assumptions for your research.
 2. A 1-page **reflection** on your experience in this course and how it impacts your research going forward.
