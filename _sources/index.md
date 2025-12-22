@@ -61,7 +61,12 @@ The final project will have 2 components:
 1. All your **exercises**, including a table outlining your theoretical assumptions for your research.
 2. A 1-page **reflection** on your experience in this course and how it impacts your research going forward.
 
-<!--**Syllabus**: You can find the [syllabus here](https://docs.google.com/document/d/1tx6v-naeueA7h2SD75vm3g2DXtTpVJGpVaN6YEEZJ9E/edit?usp=sharing) -->
+<strong>Syllabus</strong>: You can find the 
+<a href="https://raw.githubusercontent.com/fuqixiu/WAWED_course/main/docs/course/Philosophy%20in%20Science_%20Syllabus_Spring%202026.pdf" 
+   target="_blank" 
+   rel="noopener noreferrer">
+  syllabus here (PDF)
+</a>
 
 _Please navigate to the rest of the syllabus using the menu._
 

@@ -2,7 +2,7 @@
 
 **Instructors**: Cameron Le Roux, Dr. Daniela Schiller, Dr. Carla Sharp
 
-**Time**: Monday, Jan 12, 2026      
+**Time**: Monday, Jan 12 & Thursday, Jan 15, 2026      
 
 **Suggested Readings**      
 - Van Fraasen (1980) - The Scientific Image [Chapter 6: The Pragmatic Theory of Explanation](https://www.researchgate.net/profile/Bas-Van-Fraassen/publication/265286583_The_Pragmatic_Theory_of_Explanation/links/58b64e4baca27261e5166505/The-Pragmatic-Theory-of-Explanation.pdf)
