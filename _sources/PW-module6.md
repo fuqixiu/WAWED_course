@@ -1,4 +1,4 @@
-# **theoretical** Framekwork: How do we choose to do science?
+# **practical** Framekwork: How do we choose to do science?
 
 **Instructors**: Cameron Le Roux, Qi Xiu Fu, Dr. Daniela Schiller
 
