@@ -2,7 +2,7 @@
 
 **Instructors**: Alessandra Yu & Qi Xiu Fu   
 
-**Time**: Thursday, Mar 12, 2026      
+**Time**: Monday, Mar 9, 2026      
 
 **Suggested Readings**      
 - Matthews (2014) - Successful Scientific Writing - [Chapter 1: Start with a Plan](https://drive.google.com/drive/folders/1kwFGpCtb1YJGUcUrjA9dVY_q-e4DcoY2?usp=sharing)

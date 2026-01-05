@@ -29,8 +29,8 @@
       - file: PW-module6
 - part: Module 7
   chapters:
-      - file: TL-module7
       - file: PW-module7
+      - file: TL-module7
 - part: Acknowledgement 
   chapters:
     - file: acknowledgement

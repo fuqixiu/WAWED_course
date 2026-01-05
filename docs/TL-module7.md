@@ -1,10 +1,11 @@
 # **theoretical** Beyond: How else can we do science?
 
-**Instructors**: Cameron Le Roux & Dr. Daniela Schiller
+**Instructors**: Cameron Le Roux, Dr. Daniela Schiller, Dr. Georg Northoff
 
-**Time**: Monday, Mar 9, 2026      
+**Time**: Thursday, Mar 12, 2026      
 
 **Suggested Readings**      
+- Northoff & Ventura (2025) - [Bridging the gap of brain and experience: Converging Neurophenomenology with Spatiotemporal Neuroscience](https://doi.org/10.1016/j.neubiorev.2025.106139)
 - Ward (2017) - [The Varieties of Enactivism](https://link.springer.com/article/10.1007/s11245-017-9484-6) 
 <!-- - Matthews (2014) - Successful Scientific Writing - [Chapter 1: Start with a Plan](https://drive.google.com/drive/folders/1kwFGpCtb1YJGUcUrjA9dVY_q-e4DcoY2?usp=sharing) -->
 

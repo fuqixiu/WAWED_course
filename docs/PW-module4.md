@@ -1,8 +1,8 @@
 # **practical** Reflections
 
-**Instructors**: Qi Xiu Fu   
+**Instructors**: Qi Xiu Fu, Dr. Charles Mobbs   
 
-**Time**: Thursday, Feb 12, 2026      
+**Time**: Thursday, Feb 12 & Monday, Feb 19, 2026      
 
 **Exercise** (select 1)
 - Transform your phenomenon or construct map into a mechanism and/or operationalization map.
