@@ -52,7 +52,7 @@ Every week features a dual structure:
 - **Attendance** and **participation** are required (**40%**). Students will be allowed up to one excused absence. A personal electronic device should be brought to class for in-device polls and exercises.
 - All **readings** must be completed every week prior to the theoretical lecture.
 - All selected **exercises** must be completed prior to the end of the course.
-- The **project**, consisting of exercises (**30%**) and a reflection (**10%**), must be submitted at the end.
+- The **project**, consisting of exercises (**30%**) and a reflection (**10%**), must be [submitted](https://drive.google.com/drive/folders/1krjulzRkrA7ww1SZw3dcIpsYLemNnKuF?usp=sharing) at the end.
 - All **feedback** forms must be completed following each week (**20%**).
 
 **Project**
@@ -61,7 +61,7 @@ The final project will have 2 components:
 1. All your **exercises**, including a table outlining your theoretical assumptions for your research.
 2. A 1-page **reflection** on your experience in this course and how it impacts your research going forward.
 
-<strong>Syllabus</strong>: You can find the 
+<strong>Syllabus</strong>: You can download the 
 <a href="https://raw.githubusercontent.com/fuqixiu/WAWED_course/main/docs/course/Philosophy%20in%20Science_%20Syllabus_Spring%202026.pdf" 
    target="_blank" 
    rel="noopener noreferrer">
@@ -70,7 +70,7 @@ The final project will have 2 components:
 
 _Please navigate to the rest of the syllabus using the menu._
 
-## Contributors
+<!-- ## Contributors
 
 <table role="table" style="margin-left: 0px auto;">
     <thead role="rowgroup">
@@ -83,4 +83,4 @@ _Please navigate to the rest of the syllabus using the menu._
         </thead>
 </table>
 
-<hr width="60%">
+<hr width="60%"> -->

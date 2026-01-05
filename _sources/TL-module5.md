@@ -1,6 +1,6 @@
 # **theoretical** Purpose: Why does the phenomenon exist?
 
-**Instructors**: Alessandra Yu & Dr. Daniela Schiller  
+**Instructors**: Alessandra Yu, Dr. Daniela Schiller, Nichole Levesley  
 
 **Time**: Monday, Feb 23, 2026      
 
