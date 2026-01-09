@@ -5,7 +5,7 @@
 **Time**: Monday, Jan 5, 2026      
 
 **Suggested Readings**      
-- Kampourakis & Uller (2020) - Philosophy of Biology: [Preface & Chapter 1](https://virtualmmx.ddns.net/gbooks/PhilosophyofScienceforBiologists.pdf) (pg 1-18)
+- Kampourakis & Uller (2020) - Philosophy of Biology: [Preface & Chapter 1](https://drive.google.com/file/d/1KRWYSQ6FRt2IZAzvgNLX2fZq6fAvfA_c/view?usp=drive_link) (pg 1-18)
 - Bechtel & Huang (2022) - Philosophy of Neuroscience:  [Introduction](https://web.archive.org/web/20220209142019id_/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8EB23CCDB2E9D414EDA36CB8A5B8F62A/9781108931502AR.pdf/philosophy-of-neuroscience.pdf) (pg 1-2)
 - Levenstein et al. (2023) - [On the Role of Theory and Modeling in Neuroscience](https://www.jneurosci.org/content/43/7/1074)
 - Schiller, Yu, et al. (2024) - [The Human Affectome: Introduction](https://www.sciencedirect.com/science/article/pii/S0149763423004190) (example of phil in sci)
